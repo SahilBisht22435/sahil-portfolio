@@ -31,8 +31,4 @@ Open `index.html` directly in a browser, or use the VS Code Live Server extensio
 5. Select `main` and `/ (root)`.
 6. Save and wait for GitHub Pages to publish the site.
 
-## Before final submission
-Add your actual resume PDF inside:
-`assets/Sahil_Bisht_Resume.pdf`
 
-Then add a Resume button/link in `index.html` if desired.
